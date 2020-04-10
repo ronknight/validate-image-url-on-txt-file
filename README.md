@@ -3,8 +3,8 @@ Validate URLS saved on a text file using python. Request response such as 200, 4
 
 # Screenshots
 
-![Run program using VS Code](https://github.com/ronknight/validate-image-url-on-txt-file/blob/master/assets/images/request.PNG)
-![Run program using terminal](https://github.com/ronknight/validate-image-url-on-txt-file/blob/master/assets/images/request-terminal.PNG)
+![Run program using VS Code](https://github.com/ronknight/validate-image-url-on-txt-file/blob/master/assets/images/request.png)
+![Run program using terminal](https://github.com/ronknight/validate-image-url-on-txt-file/blob/master/assets/images/request-terminal.png)
 
 ## Instructions on how to run
 1. Install requests by running "sudo pip install requests" or run "pip install -r requirements.txt"
